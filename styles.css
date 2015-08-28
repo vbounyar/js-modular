@@ -1,0 +1,10 @@
+/* styles */
+body {
+  padding-top: 50px;
+}
+.hidden {display:none;}
+
+.navbar-toggle:not(.collapsed) span.glyphicon.glyphicon-remove {
+  display: block !important;
+  color: white;
+}
